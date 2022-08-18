@@ -1,5 +1,5 @@
 var appRouter = function(app) {
-	app.get("/", function(req, res) {
+	app.get("/get", function(req, res) {
 		if (!req.query.number) {
 			return res.send({"status": "error", "message": "missing number"});
 		} 
