@@ -10,7 +10,7 @@ Pre-reqs:
 1. Clone this repo
 
    
-   git clone <https://github.com/crpacheco33/fibonacci-restapi-js.git> \n
+   git clone <https://github.com/crpacheco33/fibonacci-restapi-js.git> 
    cd fibonacci-restapi-js
    ```
 
